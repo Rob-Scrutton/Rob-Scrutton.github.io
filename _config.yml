@@ -67,11 +67,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # Rob-Scrutton
-x_username: # your X handle
+github_username: Rob-Scrutton
+x_username: rob_scrutton
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: TTyVcWwAAAAJ
+orcid_id: 0009-0008-0012-0703
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -242,8 +242,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Scrutton]
+  first_name: [Robert,Rob, R., R. M.]
 
   style: apa
   locale: en
