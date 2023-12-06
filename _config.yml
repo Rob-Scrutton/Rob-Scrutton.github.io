@@ -20,7 +20,7 @@ icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name
 
 url: https://rob-scrutton.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: True # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -67,14 +67,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: Rob-Scrutton
+github_username: #
 x_username: rob_scrutton
 linkedin_username: # your LinkedIn user name
 scholar_userid: TTyVcWwAAAAJ
 orcid_id: 0009-0008-0012-0703
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best reached through my academic email (rms222 at cam.ac.uk)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -90,9 +90,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: Small updates on new and exciting things in the field.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -243,7 +243,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Scrutton]
-  first_name: [Robert,Rob, R., R. M.]
+  first_name: [Robert,Rob, R., R. M., Rob. M]
 
   style: apa
   locale: en
@@ -276,7 +276,7 @@ enable_publication_badges:
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3  # leave blank to always show all authors
+max_author_limit: 5  # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
