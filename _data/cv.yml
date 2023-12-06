@@ -51,13 +51,16 @@
   type: time_table
   contents:
     - title: Masters courses
+      institution: University of Cambridge, UK
       contents:
        - Natural Sciences (Soft Matter) 2022 - 2024
        - Systems Biology project supervisor 2022 - 2023
     - title: Undergraduate courses
+      institution: University of Cambridge, UK
       contents:
        - Natural Sciences (Thermodynamics) 2022 - 2023
        - Natural Sciences (Chemical Kinetics) 2022 - 2023
+       - Natural Sciences (Laboratory Demonstrator) 2022 - 2023
 
 
 
