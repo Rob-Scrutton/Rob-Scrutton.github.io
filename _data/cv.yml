@@ -32,13 +32,15 @@
       year: 2021
       description:
         - title: Supervised by Prof. Tuomas Knowles and Dr. Kadi Liis Saar
-          contents: Sequence based prediction of in vivo protein condensation using natural language processing (manuscript in review)
+          contents: 
+            - Sequence based prediction of in vivo protein condensation using natural language processing (manuscript in review)
     - title: Research Internship
       institution: University of Sheffield, UK
       year: 2020
       description:
         - title: Supervised by Prof. Julia Weinstein and  Prof. Anthony Meijer
-          contents: Density functional theory modelling of excited electronic states in platinum complexes
+          contents:
+            - Density functional theory modelling of excited electronic states in platinum complexes
 
 - title: Honors and Awards
   type: time_table
@@ -53,14 +55,14 @@
     - title: Masters courses
       institution: University of Cambridge, UK
       contents:
-       - Natural Sciences (Soft Matter) 2022 - 2024
-       - Systems Biology project supervisor 2022 - 2023
+        - Natural Sciences (Soft Matter) 2022 - 2024
+        - Systems Biology project supervisor 2022 - 2023
     - title: Undergraduate courses
       institution: University of Cambridge, UK
       contents:
-       - Natural Sciences (Thermodynamics) 2022 - 2023
-       - Natural Sciences (Chemical Kinetics) 2022 - 2023
-       - Natural Sciences (Laboratory Demonstrator) 2022 - 2023
+        - Natural Sciences (Thermodynamics) 2022 - 2023
+        - Natural Sciences (Chemical Kinetics) 2022 - 2023
+        - Natural Sciences (Laboratory Demonstrator) 2022 - 2023
 
 
 
