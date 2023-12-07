@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: #
 x_username: rob_scrutton
-linkedin_username: # your LinkedIn user name
+linkedin_username: rob-scrutton-384371245
 scholar_userid: TTyVcWwAAAAJ
 orcid_id: 0009-0008-0012-0703
 
@@ -243,7 +243,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Scrutton]
-  first_name: [Robert,Rob, R., R. M., Rob. M]
+  first_name: [Robert,Rob,R.,R. M.,Rob. M]
 
   style: apa
   locale: en
