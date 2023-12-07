@@ -50,19 +50,18 @@
         - Christopher Dobson Prize for examination results in undergraduate finals
 
 - title: Teaching
-  type: map
+  type: time_table
   contents:
-    - title: Masters courses
-      institution: University of Cambridge, UK
-      contents:
-        - Natural Sciences (Soft Matter) 2022 - 2024
-        - Systems Biology project supervisor 2022 - 2023
-    - title: Undergraduate courses
-      institution: University of Cambridge, UK
-      contents:
-        - Natural Sciences (Thermodynamics) 2022 - 2023
-        - Natural Sciences (Chemical Kinetics) 2022 - 2023
-        - Natural Sciences (Laboratory Demonstrator) 2022 - 2023
+    - year: 2023 - 2024
+      items:
+        - (Masters course) Natural Sciences, Soft Matter - University of Cambridge
+    - year: 2022 - 2023
+      items:
+        - (Masters course) Natural Sciences, Soft Matter - University of Cambridge
+        - (Masters course) Systems Biology project supervisor - University of Cambridge
+        - (Undergraduate course) Natural Sciences, Thermodynamics - University of Cambridge
+        - (Undergraduate course) Natural Sciences, Chemical Kinetics - University of Cambridge
+        - (Undergraduate course) Natural Sciences,Laboratory Demonstrator - University of Cambridge
 
 
 
