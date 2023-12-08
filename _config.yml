@@ -243,7 +243,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: ["Scrutton", "Rob M. Scrutton"]
-  first_name: ["Robert","Rob","R.",'R. M.","Rob. M", "Rob M. Scrutton"]
+  first_name: ["Robert","Rob","R.","R. M.","Rob. M", "Rob M. Scrutton"]
 
   style: apa
   locale: en
