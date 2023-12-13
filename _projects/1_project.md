@@ -8,19 +8,6 @@ category: work
 related_publications: Qian2023.11.02.565376
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row justify-content-sm-center">
     <div class="col-sm">
         {% include figure.html path="assets/img/phasescan_frame.png" title="Microfluidic droplets containing biomolecules and different environmental conditions" class="img-fluid rounded z-depth-1" %}
@@ -29,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Microfluidic droplets containing biomolecules under different environmental conditions. The images correspond to simultaneous imaging at two different wavelengths corresponding to two different components.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
