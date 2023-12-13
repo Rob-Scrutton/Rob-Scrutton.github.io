@@ -22,7 +22,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
 
 <div class="row">
-    <div class="col">
+    <div class="col-sm">
         {% include figure.html path="assets/img/phasescan_frame.png" title="Microfluidic droplets containing biomolecules and different environmental conditions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
