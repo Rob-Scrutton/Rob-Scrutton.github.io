@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Image based detection of biomolecular phase transitions
+description: Coupling CNNs with high-throughput microfluidics to efficiently probe biomolecular phase space
+img: assets/img/phasescan_frame.png
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: Qian2023.11.02.565376
 ---
 
 Every project has a beautiful feature showcase page.
@@ -23,13 +23,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/phasescan_frame.png" title="Microfluidic droplets containing biomolecules and different environmental conditions" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
