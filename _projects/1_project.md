@@ -10,7 +10,7 @@ related_publications: Qian2023.11.02.565376
 
 Traditional pipetting experiments are great. They allow us to test out lots of different conditions for a given protein, and then we can see under what conditions certain phases are observed. Unfortunately, proteins are expensive and really hard to get in large quantities; as a physical chemist, the last thing I want to be doing (and likely failing to do) is expressing protein. So how can we explore the phase space of proteins whilst being conservative of sample? 
 
-Microfluidics allows us to 'pipette' conditions on an extremely small scale, allowing us to save lots of protein sample. This means more data can be collected in phase space, or more experiments can be carried out after. 
+Microfluidics allows us to 'pipette' conditions on an extremely small scale, allowing us to save lots of protein sample. This means more data can be collected in phase space, or more experiments can be carried out after. <a href="https://www.nature.com/articles/s41467-022-35265-7">Arter et. al.</a> designed the first version of the setup.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
