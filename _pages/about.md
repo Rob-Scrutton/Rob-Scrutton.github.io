@@ -21,10 +21,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm a 2nd year Chemistry PhD student and my research covers the following topics:
 
-1. Understanding phase separation using microfluidics and physical chemistry techniques (check out our preprint down below where we characterise the internal pH of condensates using these techniques!)
+Understanding phase separation using microfluidics and physical chemistry techniques (check out our preprint down below where we characterise the internal pH of condensates using these techniques!)
   
-2. Sequence-based machine learning to build predictive models for in vivo protein phase separation
+Sequence-based machine learning to build predictive models for in vivo protein phase separation
   
-3. Using CNNs to analyse data from high-throughput droplet microfluidics and develop screening platforms
+Using CNNs to analyse data from high-throughput droplet microfluidics and develop screening platforms
    
-4. Predicting the in vivo composition of condensates using VAEs and related techniques from cell-based imaging
+Predicting the in vivo composition of condensates using VAEs and related techniques from cell-based imaging
