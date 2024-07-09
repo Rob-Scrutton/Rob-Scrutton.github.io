@@ -6,7 +6,7 @@ subtitle: PhD Student in the <a href='https://www-knowles.ch.cam.ac.uk/'>Knowles
 
 profile:
   align: right
-  image: prof_pic_24-07.JPG
+  image: prof_pic_24-07_2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Yusuf Hamied Department of Chemistry</p>
